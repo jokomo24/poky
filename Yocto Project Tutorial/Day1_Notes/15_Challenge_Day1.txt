@@ -1,0 +1,6 @@
+Challenge Day 1
+--------------
+
+What changes must you make to generate an image for qemu mips?
+
+Once generated run the image in qemu emulator.
